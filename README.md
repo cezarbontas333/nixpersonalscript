@@ -12,4 +12,4 @@ System has:
 - GPU: Lenovo GTX 1070
 
 ### Additional notes
-Learned quite a bit from using and searching how NixOS works, but some packages from what I would have liked to use are missing and having them compiled would have missed the point of managing a nix instance. This is mostly for archival reasons but I might go back to this setup in teh future.
+Learned quite a bit from using and searching how NixOS works, but some packages from what I would have liked to use are missing and having them compiled would have missed the point of managing a nix instance. This is mostly for archival reasons but I might go back to this setup in the future.
